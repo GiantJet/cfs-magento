@@ -1,0 +1,11 @@
+*.log
+*.bak
+*.bak.*
+*.thumbs/
+.DS_Store
+Thumbs.db
+.svn
+*.swp
+*.sublime-project
+*.sublime-workspace
+
